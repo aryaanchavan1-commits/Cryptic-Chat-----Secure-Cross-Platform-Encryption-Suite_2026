@@ -1,0 +1,3 @@
+type,name,password_hash,timestamp
+folder,03-House-Price-Prediction,fa3cfb3f1bb823aa9501f88f1f95f732ee6fef2c3a48be7f1d38037b216a549f,Fri Jan 30 17:56:52 2026
+file,House_Price_Prediction.ipynb,fa3cfb3f1bb823aa9501f88f1f95f732ee6fef2c3a48be7f1d38037b216a549f,Fri Jan 30 17:56:53 2026
